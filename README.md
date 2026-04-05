@@ -18,7 +18,7 @@
 ```text
 Languages         │  TypeScript · JavaScript · Rust · Solidity
 Runtime           │  Node.js · Bun
-Frontend          │  React, React Native, Next.js · Vue · Astro · Vite
+Frontend          │  React · React Native · Next.js · Vue · Astro · Vite
 Web3              │  viem · wagmi · Hardhat · Foundry
 Ecosystems        │  EVM · Substrate · Solana · Ontology
 ```
@@ -28,7 +28,7 @@ Ecosystems        │  EVM · Substrate · Solana · Ontology
 | Project | Description |
 |---------|-------------|
 | [**TicTacPear**](https://github.com/mar1/tictacpear) | P2P tic-tac-toe built with Pear (zero servers, pure peer-to-peer) |
-| [**Onchain Riddle Game**](https://github.com/mar1/onchain-riddle-game) | Full tutorial with [YouTube walkthrough](https://youtu.be/YC1umAx-_d8) — Solidity + Next.js + wagmi |
+| [**Onchain Riddle Game**](https://github.com/mar1/onchain-riddle-game) | Full tutorial with [YouTube walkthrough](https://youtu.be/YC1umAx-_d8): Solidity + Next.js + wagmi |
 | [**PolkaGodot**](https://github.com/pinksters/polkagodot-plugin) | Godot Engine plugin for EVM wallet connectivity & on-chain game assets |
 | [**OpenTGov**](https://github.com/mar1/opentgov) | Telegram bot for trustless Polkadot governance participation |
 | [**ElizaDB**](https://github.com/mar1/elizadb) | Character config database for ElizaOS autonomous agents |
