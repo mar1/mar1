@@ -1,6 +1,6 @@
 # gm, I'm Marin (aka mar1dev) ✨
 
-**Full-Stack Web3 Developer** and **Developer Relations** specialist building decentralized applications and helping developers ship unstoppable software.
+**Full-Stack Web3 Developer** and **Developer Relations** specialist building decentralized applications and helping EVM developers ship unstoppable software.
 
 4+ years in blockchain development. Polkadot Blockchain Academy graduate. Grant committee technical expert. Hackathon winner. Passionate about cryptography, privacy, and peer-to-peer systems.
 
@@ -8,10 +8,11 @@
 
 ## Current Focus
 
+- Creating **developer tutorials and technical content**
 - Creating a **DID-based game** using Ontology's primitives
 - Building with **Pear**: P2P runtime for zero-infrastructure apps
 - Exploring **Fully Homomorphic Encryption**
-- Creating developer tutorials and technical content
+
 
 ## Tech Stack
 
@@ -37,7 +38,7 @@ Ecosystems        │  EVM · Substrate · Solana · Ontology
 
 - **Grant Committee Technical Expert** @ Moonbeam Foundation — assessed 50+ technical submissions
 - **Technical content creator** — tutorials, documentation, video walkthroughs
-- **Community builder** — 2,000+ developers on X
+- **Built** - demo dApps and examples to improve developer onboarding
 - **Speaker** — blockchain conferences and developer meetups
 
 ## Hackathons
