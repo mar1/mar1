@@ -1,14 +1,14 @@
 # gm, I'm Marin (aka mar1dev) ✨
 
-**Full-Stack Web3 Developer** and **Developer Relations** specialist building decentralized applications and helping EVM developers ship unstoppable software.
+**Full-Stack Web3/AI Developer** and **Developer Relations** specialist building applications and helping developers ship unstoppable software.
 
-4+ years in blockchain development. Polkadot Blockchain Academy graduate. Grant committee technical expert. Hackathon winner. Passionate about cryptography, privacy, and peer-to-peer systems.
+4+ years in blockchain/software development. Polkadot Blockchain Academy graduate. Grant committee technical expert. Hackathon winner. Passionate about cryptography, privacy, and peer-to-peer systems.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mar1&theme=carbonfox)](https://git.io/streak-stats)
 
 ## Current Focus
 
-- Creating **developer tutorials and technical content**
+- Crafting **developer tutorials and technical content**
 - Creating a **DID-based game** using Ontology's primitives
 - Building with **Pear**: P2P runtime for zero-infrastructure apps
 - Exploring **Fully Homomorphic Encryption**
@@ -17,7 +17,7 @@
 ## Tech Stack
 
 ```text
-Languages         │  TypeScript · JavaScript · Rust · Solidity
+Languages         │  TypeScript · JavaScript · Rust · Python · Solidity
 Runtime           │  Node.js · Bun
 Frontend          │  React · React Native · Next.js · Vue · Astro · Vite
 Web3              │  viem · wagmi · Hardhat · Foundry
