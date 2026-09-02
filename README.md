@@ -8,7 +8,7 @@ Still obsessed with agentic workflows, open-source, and making LLMs do real work
 
 ## Current Focus
 
-- Working as **Solutions Engineer** — discovery, integrations, and AI-powered workflow delivery
+- Working as **Solutions Engineer**: discovery, integrations, and AI-powered workflow delivery
 - Building **agentic systems** with LLMs, RAG, and multi-agent orchestration
 - Exploring **MCP** and self-improving agent architectures
 - Automating everything with **n8n**, Claude Code, and API integrations
@@ -28,7 +28,7 @@ Past Lives      │  Solidity · EVM · Substrate · Solana
 
 | Project | Description |
 |---------|-------------|
-| [**playDNA**](https://github.com/mar1/playdna) | Fully automated indie game review pipeline — Steam scraping + LLM scripts + ElevenLabs voice synthesis + dynamic video overlays |
+| [**playDNA**](https://github.com/mar1/playdna) | Fully automated indie game review pipeline, Steam scraping + LLM scripts + ElevenLabs voice synthesis + dynamic video overlays |
 | [**omarchy-deezer**](https://github.com/mar1/omarchy-deezer) | QML plugin adding Deezer streaming to the Omarchy bar on Hyprland — MPRIS controls, playlists, favorites |
 | [**Onchain Riddle Game**](https://github.com/mar1/onchain-riddle-game) | End-to-end tutorial with [YouTube walkthrough](https://youtu.be/YC1umAx-_d8): Solidity + Next.js + wagmi |
 | [**OpenTGov**](https://github.com/mar1/opentgov) | Telegram bot for trustless Polkadot governance participation via governance proxy |
